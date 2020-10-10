@@ -15,3 +15,12 @@ entries:
 
   - title: sample page
     url: page_template
+  
+  - title: projects
+     - entries:
+        - title: one
+        - url: false
+        
+        - title: two
+        - url: false
+      
