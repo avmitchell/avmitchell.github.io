@@ -17,11 +17,9 @@ entries:
     url: page_template
   
   - title: projects
-  - url: false
-     - entries:
-        - title: one
-        - url: false
-        
-        - title: two
-        - url: false
-      
+    url: false
+    entries:
+      - title: one
+        url: false
+      - title: two
+        url: false
