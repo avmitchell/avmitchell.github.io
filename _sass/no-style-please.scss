@@ -88,13 +88,24 @@ img {
   margin: 0 auto;
 }
 
-$a-tags: 'a, a:active, a:hover, a:visited';
-$a-tags-hover: 'a:active, a:hover';
- 
-#{$a-tags} {
-  color: blue;
+$fade-white : #eee;
+$white : #ccc;
+
+a{
+  color: purple;
   text-decoration: none;
-}
-#{$a-tags-hover} {
-  color: green;
+
+  &:visited{
+    color: green;
+    text-decoration: none;
+    opacity: 0.42;
+  }
+  &:hover{
+    opacity: 0.7;
+    text-decoration: underline;
+  }
+  &:active{
+    opacity: 1;
+    text-decoration: none;
+  }
 }
