@@ -5,18 +5,18 @@ entries:
   - title: bio
     url: about
     
-  - title: posts
+  - title: ongoing projects
     post_list: true
     url: false
     entries: false
 
-  - title: birdcam
+  - title: photos & other experiments
     url: https://www.allaboutbirds.org/cams/royal-albatross/
 
-  - title: sample page
-    url: page_template
+  - title: writing
+    url: writing
   
-  - title: projects
+  - title: journalism
     url: false
     entries:
       - title: one
