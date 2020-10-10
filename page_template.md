@@ -33,7 +33,7 @@ this is how you include an image:
 ## IMAGES
 ![albatross](https://www.treehugger.com/thmb/P_SfdEgOAhpBGfDaM5LR6tv3Qfk=/3268x2179/filters:fill(auto,1)/wandering-albatross-flying-over-open-water--diomedea-exulans--is-a-large-seabird-from-the-family-diomedeidae-which-has-a-circumpolar-range-in-the-southern-ocean--the-wandering-albatross-has-the-largest-wingspan-of-any-living-bird--with-the-average-wi-73c13644283c4ef1bb2b4fd8664e16b6.jpg)
 
-![fatema iamge](./Fatema1.HEIC)
+![fatema image](./images/test.heic)
 
 ## BLOCKQUOTE
 > Suspendisse tempus dolor nec risus sodales posuere. Proin dui dui, mollis a consectetur molestie, lobortis vitae tellus.
