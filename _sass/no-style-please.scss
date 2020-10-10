@@ -87,3 +87,14 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+$a-tags: 'a, a:active, a:hover, a:visited';
+$a-tags-hover: 'a:active, a:hover';
+ 
+#{$a-tags} {
+  color: blue;
+  text-decoration: none;
+}
+#{$a-tags-hover} {
+  color: green;
+}
